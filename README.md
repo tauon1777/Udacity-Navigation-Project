@@ -17,3 +17,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 <p align="center">
   <img src="./assets/banana-0.png" />
 </p>
+Image of the Unity Banana Collector environment.
+
+
