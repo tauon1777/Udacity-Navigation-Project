@@ -28,14 +28,16 @@ Image of the Unity Banana Collector environment.
 
 ### Installing Dependencies
 
-numpy
-random
-collections
-matplotlib
-torch
+<ul>
+<li> numpy </li>
+<li> random </li>
+<li> collections </li>
+<li> matplotlib </li>
+<li> torch </li>
+<li> unityagents </li>
+</ul>
 
 
-unityagents
 
 
 
