@@ -41,7 +41,7 @@ Image of the Unity Banana Collector environment.
 unityagents has been replaced by ml-agents
 
 Can be installed with:
-  python -m pip install mlagents==0.30.0
+python -m pip install mlagents==0.30.0
 
 ### Training an Agent
 
