@@ -16,3 +16,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 
 ![image info](./assets/banana-0.png)
+
+
+<p align="center">
+  <img src="./assets/banana-0.png" />
+</p>
