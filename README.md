@@ -29,15 +29,17 @@ Image of the Unity Banana Collector environment.
 ### Installing Dependencies
 
 <ul>
-<li> numpy </li>
+<li> python==3.6.3 </li>
+<li> numpy==1.12.1 </li>
 <li> random </li>
 <li> collections </li>
-<li> matplotlib </li>
-<li> torch </li>
-<li> unityagents </li>
+<li> matplotlib==2.1.0 </li>
+<li> torch==0.4.0 </li>
+<li> unityagents==0.4.0 </li>
 </ul>
 
+unityagents has been replaced by ml-agents
 
-
+mlagents==0.30.0
 
 
