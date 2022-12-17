@@ -1,4 +1,8 @@
+<p align="center">
 # Udacity-Navigation-Project
+</p>
+
+### Environment Description
 This project used a deep Q-network to teach an agent how to navigate its environment collecting yellow bananas while avoiding blue ones.
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
@@ -24,5 +28,6 @@ Image of the Unity Banana Collector environment.
 
 
 ### Installing Dependencies
+
 
 
