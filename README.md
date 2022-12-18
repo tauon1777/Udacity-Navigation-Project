@@ -65,7 +65,11 @@ If needed, additional instructions are located at:
 
 ### Training an Agent
 
+The main function is located in the Navigation.ipynb file. Running the cells in this file will train an agent from scratch. It might be necessary to correct the path to the Banana Collector environment executable.
 
+The agent trains for 2000 episodes by default, using the same hyperparameters outlined in the report. The performance of the agent should be comparable to the results below.
 
-
+<p align="center">
+  <img src="./assets/scores.png" />
+</p>
 
