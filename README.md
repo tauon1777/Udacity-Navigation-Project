@@ -51,9 +51,11 @@ Download the environment from one of the links below. You need only select the e
 - Windows (32-bit): **[click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)**
 - Windows (64-bit): **[click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)**
 
-Clone this repository using: git clone 
+Clone this repository using: git clone https://github.com/tauon1777/Udacity-Navigation-Project.git
 
-Place the zip file in the GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
+Place the zip file in the GitHub repository and unzip (or decompress) the file.
+
+The agent should be ready to train.
 
 If needed, additional instructions are located at:
 
