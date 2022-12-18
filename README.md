@@ -27,7 +27,7 @@ Image of the Unity Banana Collector environment.
 
 ### Setting up the Repository
 
-## List of Dependencies
+##### List of Dependencies
 
 <ul>
 <li> python==3.6.3 </li>
