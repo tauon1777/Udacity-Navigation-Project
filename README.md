@@ -70,6 +70,6 @@ The main function is located in the Navigation.ipynb file. Running the cells in 
 The agent trains for 2000 episodes by default, using the same hyperparameters outlined in the report. The performance of the agent should be comparable to the results below.
 
 <p align="center">
-  <img src="./assets/scores_DQN.png" width="200"/>
+  <img src="./assets/scores_DQN.png" width="800"/>
 </p>
 
