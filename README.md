@@ -25,8 +25,9 @@ The task is episodic, and in order to solve the environment, your agent must get
 Image of the Unity Banana Collector environment.
 </p>
 
+### Setting up the Repository
 
-### Installing Dependencies
+## List of Dependencies
 
 <ul>
 <li> python==3.6.3 </li>
