@@ -22,18 +22,17 @@ The task is episodic, and in order to solve the environment, your agent must get
 </p>
 
 <p align="center">
-Image of the Unity Banana Collector environment.
+Video of agent navigating the Unity Banana Collector environment.
 </p>
 
 ### Setting up the Repository
 
 ##### List of Dependencies
 
+Below is the list of requirements.
 <ul>
 <li> python==3.6.3 </li>
 <li> numpy==1.12.1 </li>
-<li> random </li>
-<li> collections </li>
 <li> matplotlib==2.1.0 </li>
 <li> torch==0.4.0 </li>
 <li> unityagents==0.4.0 </li>
@@ -43,6 +42,15 @@ unityagents has been replaced by ml-agents
 
 Can be installed with:
 python -m pip install mlagents==0.30.0
+
+##### Installation Procedure
+<ul>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+</ul>
+
 
 ### Training an Agent
 
