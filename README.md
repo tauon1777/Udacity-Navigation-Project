@@ -51,8 +51,11 @@ python -m pip install mlagents==0.30.0
   <li>  </li>
 </ul>
 
+For detailed instructions, see:
 
-For detailed instructions, see: [Udacity Deep Reinforcement Learning Repository](https://github.com/udacity/deep-reinforcement-learning#dependencies).
+[Udacity Project 1: Navigation](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation).
+
+[Udacity Deep Reinforcement Learning Repository](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
 ### Training an Agent
 
