@@ -51,7 +51,9 @@ Download the environment from one of the links below. You need only select the e
 - Windows (32-bit): **[click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)**
 - Windows (64-bit): **[click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)**
 
-Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
+Clone this repository using: git clone 
+
+Place the zip file in the GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
 
 If needed, additional instructions are located at:
 
